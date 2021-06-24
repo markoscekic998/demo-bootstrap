@@ -1,3 +1,6 @@
-* .cache
-* node_modules
-* files
+.cache
+node_modules
+files
+dist
+.vscode
+.git
